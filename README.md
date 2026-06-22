@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://github.com/41ki/" target="_blank">
         <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&color=326EFF&size=35&center=true&width=600&height=69&lines=Hi+there!;Welcome+To+My+Profile;" alt="Typing SVG">
-        <img src="/41ki/public/img/banner.png" alt="Profile Image" />
+        <img src="./public/img/banner.png" alt="Profile Image" />
         <img src="https://komarev.com/ghpvc/?username=88JC&color=lightgrey&labelColor=grey&style=for-the-badge&logo=eye&label=visitor&logoColor=white" alt="Profile views" />
     </a>
 </h1>
