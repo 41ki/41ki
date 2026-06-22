@@ -23,5 +23,5 @@ Email notification only from **[???](???)**
 ---
 
 <picture>
-  <img src="https://cdn.wokydo.me/img/love.svg">
+  <img src="https://raw.githubusercontent.com/41ki/41ki/main/github-metrics.svg" width="100%">
 </picture>
