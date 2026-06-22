@@ -23,5 +23,5 @@ Email notification only from **[???](???)**
 ---
 
 <picture>
-  <img src="https://raw.githubusercontent.com/41ki/41ki/main/github-metrics.svg" width="100%">
+  <img src="https://raw.githubusercontent.com/41ki/41ki/main/github-metrics.svg" width="50%">
 </picture>
