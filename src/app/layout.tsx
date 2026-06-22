@@ -19,16 +19,16 @@ const geistMono = Geist_Mono({
 const inter = Inter({ subsets: ['latin'], variable: '--font-inter' });
 
 const personInfo = {
-  name: "KYDO",
-  username: "88JC",
+  name: "Never",
+  username: "41ki",
   description: "Hi! Welcome to my personal website.",
-  domain: "wky.me",
+  domain: "41ki.vercel.app",
 };
 
 export const metadata: Metadata = {
   title: `${personInfo.name}`,
   description: `${personInfo.description}`,
-  keywords: ["88JC", "Tech Enthusiast", "kydo", "portofolio", "personal website"],
+  keywords: ["41ki", "Tech Enthusiast", "never", "portofolio", "personal website"],
   authors: [{ name: personInfo.name }],
   creator: personInfo.name,
   openGraph: {
